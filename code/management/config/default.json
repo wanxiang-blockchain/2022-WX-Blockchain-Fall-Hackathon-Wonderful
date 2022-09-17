@@ -1,0 +1,8 @@
+{
+    "nodeAddress": "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+    "chainId": "4",
+    "userManagerContractAddress": "0x1478CE9E64DaC7184e4F40678593444dE31b23dA",
+    "worshipManagerContractAddress": "0xb89928891c61074b20b7FdDcDfD3A65bf8D1e1F4",
+    "userManagerAbiPath": "../contracts/build/contracts/UserManager.json",
+    "worshipManagerAbiPath": "../contracts/build/contracts/WorshipManager.json"
+}
